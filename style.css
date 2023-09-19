@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: #d49696;
+}
+
+#main{
+    background-color: #faf8f8;
+    width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+    background-color:rgba(116, 109, 109, 0.2);
+    border-radius: 8px;;
+}
+
+h2{
+    margin: 5px;
+}
